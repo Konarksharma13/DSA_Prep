@@ -1,7 +1,7 @@
 # 🔄 Recursion in C++
 
 This repository contains multiple examples of **recursion in C++** with explanations, time complexity (TC), and space complexity (SC).  
-These problems are fundamental in understanding recursive problem-solving and are often asked in coding interviews.
+These problems are fundamental in understanding recursive problem solving and are often asked in coding interviews.
 
 ---
 
